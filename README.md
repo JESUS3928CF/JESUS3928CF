@@ -36,11 +36,16 @@
 
 <h3 align="left">🔭  Projects completed</h3>
 
-- 🔭 Project number one [Todo](https://todo-app-3928.netlify.app/)
-- 🔭 Project number two [Movie API](https://movies-app-3928.netlify.app/)
-- 🔭 Project number three [Quotation](https://cotizador-app-3928.netlify.app/)
-- 🔭 Project number fort [Cryptocurrencies](https://criptos-app-3928.netlify.app/)
-- 🔭 Project number five [Expense control](https://expense-control-app-3928.netlify.app/)
+- 🔭 Project with React [Todo](https://todo-app-3928.netlify.app/)
+- 🔭 Project with React [Movie API](https://movies-app-3928.netlify.app/)
+- 🔭 Project with React [Quotation](https://cotizador-app-3928.netlify.app/)
+- 🔭 Project with React [Cryptocurrencies](https://criptos-app-3928.netlify.app/)
+- 🔭 Project with React [Expense control](https://expense-control-app-3928.netlify.app/)
+- 🔭 Project with JavaScrit and IndexDB [Control de clientes](https://js-crm-indexeded.netlify.app/)
+- 🔭 Project with JavaScrit, progresive web app [abministrador de citas](https://js-pwa-instalable-abmin-de-citas.netlify.app/)
+- 🔭 Project with JavaScrit and IndexDB [Control de clientes](https://js-crm-indexeded.netlify.app/)
+- 🔭 Project with JavaScrit [Buscador de imagenes con la API de Pixabay](https://js-buscador-de-imagenes-api.netlify.app/)
+- 🔭 Project with JavaScrit [Consultar el clima con Fetch API](https://js-clima-con-fetch-api.netlify.app/)
 
 <p align="left"></p>
 
