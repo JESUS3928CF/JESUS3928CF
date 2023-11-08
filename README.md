@@ -45,7 +45,7 @@
 - 🔭 Project with JavaScrit, progresive web app [abministrador de citas](https://js-pwa-instalable-abmin-de-citas.netlify.app/)
 - 🔭 Project with JavaScrit and IndexDB [Control de clientes](https://js-crm-indexeded.netlify.app/)
 - 🔭 Project with JavaScrit [Buscador de imagenes con la API de Pixabay](https://js-buscador-de-imagenes-api.netlify.app/)
-- 🔭 Project with JavaScrit [Consultar el clima con Fetch API](https://js-clima-con-fetch-api.netlify.app/)v
+- 🔭 Project with JavaScrit [Consultar el clima con Fetch API](https://js-clima-con-fetch-api.netlify.app/)
 - 🔭 Project with JavaScrit [Buscador de resetas con Fetch API](https://js-busbacor-de-recetas.netlify.app/)
 
 <p align="left"></p>
