@@ -35,9 +35,6 @@
 ###
 <h3 align="left">🔭  Projects in progress</h3>
 
-- 🔭 Project with React, Node.js, MySql [DEMO Comprehensive System for Printing Companies](https://colch-star.netlify.app/))
-     use this user: jesus3928cfgmail.com, password: jesus123
-
 <h3 align="left">🔭  Projects completed</h3>
 
 - 🔭 Project with React [Todo](https://todo-app-3928.netlify.app/)
