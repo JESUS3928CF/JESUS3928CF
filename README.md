@@ -33,7 +33,6 @@
 <h3 align="center">👩‍💻  About Me <br><br>Bienvenido a mi rincón en GitHub. un apasionado del desarrollo y la tecnología.<br><br>Desde que tuve mi primer encuentro con el mundo de la programación, me enamoré de su capacidad para dar vida a ideas y crear soluciones innovadoras. A lo largo de los años, he explorado diferentes lenguajes de programación y tecnologías, lo que me ha permitido adquirir un conjunto diverso de habilidades.<br><br>En este espacio, compartiré algunos de mis proyectos personales y contribuciones a la comunidad de código abierto. Creo firmemente en la colaboración y el compartir conocimientos para fortalecer la comunidad de desarrolladores.<br><br>Siéntete libre de explorar mis repositorios, hacer preguntas o sugerir mejoras. Estoy siempre abierto a nuevas ideas y a trabajar en equipo.<br><br>¡Agradezco tu visita! 😄 Juntos, podemos crear un futuro emocionante y lleno de innovación a través del desarrollo.<br><br>¡Happy coding! 🚀</h3>
 
 ###
-<h3 align="left">🔭  Projects in progress</h3>
 
 <h3 align="left">🔭  Projects completed</h3>
 
